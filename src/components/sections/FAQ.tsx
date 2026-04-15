@@ -23,7 +23,7 @@ export default function FAQ() {
           <AccordionItem value="item-1">
             <AccordionTrigger>Do you offer fixed packages?</AccordionTrigger>
             <AccordionContent>
-              No — and deliberately so. Fixed packages are built for agencies,
+              No, and deliberately so. Fixed packages are built for agencies,
               not for clients. We analyze your business first, then build a custom
               system around what actually moves the needle.
             </AccordionContent>
@@ -34,7 +34,7 @@ export default function FAQ() {
             <AccordionContent>
               You’ll get a confirmation and calendar invite immediately. On the call,
               we analyze your business, goals, audience, and current marketing.
-              Afterward, we send a clear proposal with recommendations — no obligation.
+              Afterward, we send a clear proposal with recommendations  no obligation.
             </AccordionContent>
           </AccordionItem>
 
