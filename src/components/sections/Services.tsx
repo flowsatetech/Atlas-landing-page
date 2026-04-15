@@ -91,7 +91,7 @@ export default function Services() {
             <Card key={i} className="border border-gray-100 shadow-sm hover:shadow-md transition">
               <CardContent className="p-6">
 
-                <h3 className="text-lg font-bold text-[#FFD500]">
+                <h3 className="text-lg font-bold text-[#0057FF]">
                   {service.title}
                 </h3>
 
